@@ -1,4 +1,4 @@
-# Host-ASPNET-Core-Application-in-Windows-Service
+# Host ASPNET Core Application in Windows Service
 Sample application for hosting the AspNet Core web application on Windows Service.
 
 For more details you can visit the website: https://www.infologs.in/
